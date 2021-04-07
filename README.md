@@ -1,6 +1,6 @@
 ![API](https://user-images.githubusercontent.com/57143675/113038123-880d4a80-916c-11eb-94d5-1ab321077cad.PNG)
 
-<h1 align="center">Cinnecta API - FrontEnd</h1>
+<h1 align="center">Mangas List</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -10,7 +10,7 @@
 </p>
 
 ## Descrição do Projeto
-<p align="center">Projeto Front-End desenvolvido para o processo seletivo de Desenvolvedor Full-Stack na Cinnecta.</p>
+<p align="center">Listagem de inúmeros Mangás disponíveis para visualização.</p>
 
 ## Linguagem utilizada
 <h1 align="center" id="tecnologias">
