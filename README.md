@@ -1,6 +1,6 @@
 ![A](https://user-images.githubusercontent.com/57143675/113916169-0e054300-97b6-11eb-8c45-02186ccaa1bf.PNG)
 
-<h1 align="center">Mangas List</h1>
+<h1 align="center">Mangás List</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
